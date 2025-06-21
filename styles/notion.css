@@ -61,6 +61,7 @@
   @apply p-0;
   @apply my-3;
   line-height: var(--no-leading);
+  font-color:#333;
 }
 .notion-page-link {
   color: inherit;
