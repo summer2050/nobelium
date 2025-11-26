@@ -83,7 +83,7 @@ svg + .notion-page-title-text {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 1.05em;
+  font-size: 1em;
 }
 
 .notion-callout-text {
@@ -176,7 +176,7 @@ pre[class*='language-'] {
 }
 
 .notion-list {
-  padding-inline-start: 2px;
+  padding-inline-start: 4px;
 }
 
 .notion-list > li {
