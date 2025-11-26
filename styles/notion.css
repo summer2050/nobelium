@@ -176,12 +176,12 @@ pre[class*='language-'] {
 }
 
 .notion-list {
-  padding-inline-start: 28px;
+  padding-inline-start: 10px;
 }
 
 .notion-list > li {
-  padding-left: 0px;
-  padding-right: 0px;
+  padding-left: 2px;
+  padding-right: 2px;
 }
 
 /* Every block */
