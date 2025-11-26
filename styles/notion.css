@@ -61,7 +61,7 @@
   @apply p-0;
   @apply my-3;
   line-height: var(--no-leading);
-  font-color:#333;
+  font-color:#333333;
 }
 .notion-page-link {
   color: inherit;
@@ -176,7 +176,7 @@ pre[class*='language-'] {
 }
 
 .notion-list {
-  padding-inline-start: 10px;
+  padding-inline-start: 2px;
 }
 
 .notion-list > li {
