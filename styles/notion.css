@@ -83,7 +83,7 @@ svg + .notion-page-title-text {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 1em;
+  font-size: 1.05em;
 }
 
 .notion-callout-text {
